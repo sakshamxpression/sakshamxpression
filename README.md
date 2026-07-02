@@ -18,7 +18,7 @@
 
 ```yaml
 name: Saksham Tomer
-role: Full Stack AI Engineer • Agency Founder
+role: Full Stack AI Engineer
 based_in: Noida, India
 building:
   - Mapifast → YouTube videos ➜ interactive mind maps (multi-agent AI pipeline)
